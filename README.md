@@ -20,8 +20,15 @@ https://classroom.github.com/a/7o-29Ai3
 
 # **Projet**
 ## Titre
+_My battery is low and it's getting dark_
 
 ## Mots-clés
-
+Mars,
+Exploration spatiale,
+Avancées technologiques
 
 ## Description
+_My battery is low and it's getting dark_ est un jeu d'exploration où le joueur découvre la planète Mars par les yeux du rover Opportunity.
+Une session de jeu retrace les 15 ans de vie du robot à une échelle réduite où 1 an = 40 secondes.
+
+Pas de spoil, vous découvrirez l'histoire par vous-même.
