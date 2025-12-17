@@ -1,0 +1,95 @@
+'   ****************************************************** 
+'   *** 3D Wall Amiga Version (Version 2)
+'   *** inspired by original  code listing in Sinclair Programs  
+'   *** October 1984 by Philip Laflin                
+
+'   *** Written in  AMOS by Yawning Angel, 2024  
+
+'       Use of this code is at your own risk.
+'       Yawning Angel is not responsible for any damage caused 
+'       to your hardware or software if you use this code. 
+
+'       There may be more efficient ways to use this code, and 
+'       what is supplied here is not given as the best solution, 
+'       merely a way of demonstrating functionality. 
+
+'       If you get use out of this, consider making a donation 
+'       on my ko-fi account: ko-fi.com/yawningangel
+'       Thank you. :)
+
+'       If you wish to change this program, please make a copy and 
+'       make changes to that.  
+
+'       Feel free to share your high scores with me on social  
+'       media. Links available from my website.  
+
+'       Enjoy! 
+
+'       Yawning Angel 2024 
+'       https://www.ya-retro.co.uk 
+'       YouTube: @YawningAngelRetro
+
+'   ****************************************************** 
+
+' Procedure calls
+GAME_START
+SCRN_SETUP
+LD_BOBS
+
+Global X_POS,Y_POS
+
+Global LEVEL,SCORE,BRICK_COUNT,TELEPORT_COUNT,BRICK_COUNT,DYNAMITE_POTS
+Global BRICK_DOWN,BRICK_SPEED,BRICK_LEFT,BRICK_RIGHT,TELEPORT_POT,POT_EXPLODE,BB_DEBRI_DYNAMITE
+Global LEFTFLAG
+Global RIGHTFLAG
+Global PP_REMOVED
+Global PLACEMENT_RANGE
+Global WALL_HIT_LEFT,WALL_HIT_RIGHT
+Global TELEPORT_TRIGGER
+
+SET_VARS
+
+INIT_BOBS
+
+INITIALISE_PLAY[LEVEL]
+
+GAME_LOOP
+
+Procedure GAME_LOOP
+
+End 
+
+' Remember, press F9 to toggle exand/collapse of procs ;)
+Procedure GAME_START
+
+Procedure SCRN_SETUP
+
+Procedure LD_BOBS
+
+Procedure SET_VARS
+
+Procedure INIT_BOBS
+
+Procedure INITIALISE_PLAY[LEVEL]
+
+Procedure COMPLETE
+
+Procedure FIN_GAME
+
+Procedure GAME_SCORE
+
+Procedure EDGE_CHECK
+
+Procedure PLACE_TELEPORT
+
+Procedure HIT_STUFF
+
+Procedure TELL_PLAYER[MESSAGE$,PAP,PN]
+
+Procedure GAMEOVER
+
+Procedure RMV_BOBS[TYPE$,CAUSE$]
+
+Procedure J_LEFT
+
+Procedure J_RIGHT
