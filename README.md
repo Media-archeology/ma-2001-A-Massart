@@ -32,3 +32,6 @@ _My battery is low and it's getting dark_ est un jeu d'exploration où le joueur
 Une session de jeu retrace les 15 ans de vie du robot à une échelle réduite où 1 an = 40 secondes.
 
 Pas de spoil, vous découvrirez l'histoire par vous-même.
+
+P.S. Je raconte l'histoire parce que je n'ai pas pu finir le projet...
+Le joueur fait bouger le sprite du rover Opportunity sur des éléments interactifs qui représentent des éléments que le rover a vu sur Mars (ex : Épave du bouclier thermique en décembre 2004, etc.) avec une petite histoire à chaque fois. Lorsque le compteur arrive à 2018, le message "My battery is low and it's getting dark" apparait et le jeu s'arrête, ces derniers mots étant ceux du petit rover marsien, éteint en 2018.

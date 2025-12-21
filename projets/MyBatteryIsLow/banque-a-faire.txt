@@ -1,0 +1,8 @@
+Banque à faire :
+
+
+SPRITE 1 :
+Image 1 :
+rover_32x32x16_b=r_Gexp_resultat.iff
+Image 2 :
+rover_32x32x16_b=r_Gexp_resultat.iff => miroir horizontal
