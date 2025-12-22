@@ -35,3 +35,8 @@ Pas de spoil, vous découvrirez l'histoire par vous-même.
 
 P.S. Je raconte l'histoire parce que je n'ai pas pu finir le projet...
 Le joueur fait bouger le sprite du rover Opportunity sur des éléments interactifs qui représentent des éléments que le rover a vu sur Mars (ex : Épave du bouclier thermique en décembre 2004, etc.) avec une petite histoire à chaque fois. Lorsque le compteur arrive à 2018, le message "My battery is low and it's getting dark" apparait et le jeu s'arrête, ces derniers mots étant ceux du petit rover marsien, éteint en 2018.
+
+Aperçu :  
+![Image de l'aperçu du jeu - numéro 1](aperçu/aperçu-du-projet_1.png)
+![Image de l'aperçu du jeu - numéro 2](aperçu/aperçu-du-projet_2.png)
+![Image de l'aperçu du jeu - numéro 3](aperçu/aperçu-du-projet_3.png)

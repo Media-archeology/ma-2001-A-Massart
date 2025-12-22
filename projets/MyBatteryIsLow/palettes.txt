@@ -1,0 +1,54 @@
+j'ai cette palette :
+Colour 0,$DDD
+Colour 1,$000
+Colour 2,$555
+Colour 3,$FA4
+Colour 4,$888
+Colour 5,$AAA
+Colour 6,$000
+Colour 7,$000
+Colour 8,$000
+Colour 9,$000
+Colour 10,$000
+Colour 12,$000
+Colour 13,$000
+Colour 14,$000
+Colour 15,$000
+Colour 16,$000
+elle fonctionne nickel mais les couleurs ne sont pas dans le bon ordre je crois. voici les équivalence supposée :
+|actuel|supposé|
+|$888|$AAA|
+|$555|$FA4|
+|$FA4|$555|
+|$000|$DDD|
+|$000|$000| = ok
+
+
+
+
+__________________________________________________
+Icone
+
+#c48e0b => $C80
+#634305 => $640
+#ffbf4a => $FB4
+#986a0c => $960
+
+Colour 0,$000
+Colour 1,$640
+Colour 2,$C80
+Colour 3,$960
+Colour 4,$FB4
+Colour 5,$000
+Colour 6,$000
+Colour 7,$000
+Colour 8,$000
+Colour 9,$000
+Colour 10,$000
+Colour 11,$000
+Colour 12,$000
+Colour 13,$000
+Colour 14,$000
+Colour 15,$000
+
+
