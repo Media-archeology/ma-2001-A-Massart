@@ -40,3 +40,6 @@ Aperçu :
 ![Image de l'aperçu du jeu - numéro 1](aperçu/aperçu-du-projet_1.png)
 ![Image de l'aperçu du jeu - numéro 2](aperçu/aperçu-du-projet_2.png)
 ![Image de l'aperçu du jeu - numéro 3](aperçu/aperçu-du-projet_3.png)
+
+
+Update du 22-12 : J'ai persévéré au delà de la semaine de cours et voilà ce que j'ai réussi à faire !
