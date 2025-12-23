@@ -23,6 +23,9 @@ elle fonctionne nickel mais les couleurs ne sont pas dans le bon ordre je crois.
 |$000|$DDD|
 |$000|$000| = ok
 
+888
+
+
 
 
 
