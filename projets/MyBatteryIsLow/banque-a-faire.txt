@@ -2,17 +2,17 @@ Banque à faire :
 
 
 SPRITES :
-- rover :
+- ROVER :
 Image 1 :
 rover_32x32x16_b=r_Gexp_resultat.iff
 Image 2 :
 rover_32x32x16_b=r_Gexp_resultat.iff => miroir horizontal
 
 OBJETS :
-- epave "épave du bouclier thermique, au sud d'Endurance (décembre 2004)"
-- falaise "La falaise Burns, à l'intérieur du cratère Endurance (décembre 2004)"
-- meteorite "Heat Shield Rock (janvier 2005)"
-- cratere "Le cratère Victoria (septembre 2006)"
+- EPAVE "épave du bouclier thermique, au sud d'Endurance (décembre 2004)"
+- FALAISE "La falaise Burns, à l'intérieur du cratère Endurance (décembre 2004)"
+- METEORITE "Heat Shield Rock (janvier 2005)"
+- CRATERE "Le cratère Victoria (septembre 2006)"
 
 DECORS :
 - petite roche

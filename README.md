@@ -47,10 +47,34 @@ Pas de spoil, vous découvrirez l'histoire par vous-même.
 P.S. Je raconte l'histoire parce que je n'ai pas pu finir le projet...
 Le joueur fait bouger le sprite du rover Opportunity sur des éléments interactifs qui représentent des éléments que le rover a vu sur Mars (ex : Épave du bouclier thermique en décembre 2004, etc.) avec une petite histoire à chaque fois. Lorsque le compteur arrive à 2018, le message "My battery is low and it's getting dark" apparait et le jeu s'arrête, ces derniers mots étant ceux du petit rover marsien, éteint en 2018.
 
+## Journal de bord
+### Comment lancer le jeu
+(toutes les étapes ne sont pas à jour dans les dossiers)
+1. Télécharger le dossier MyBatteryIsLow_Game.
+2. Importer la banque [MyBatteryIsLow.Abk](projets/MyBatteryIsLow/img/MyBatteryIsLow.Abk) dans Amos Pro.
+3. Importer le script [MyBatteryIsLow.ASC](projets/MyBatteryIsLow/MyBatteryIsLow.ASC).
+4. Lancer le jeu.
+
 Maquette de l'aperçu final :  
 ![Image de l'aperçu du jeu - numéro 1](aperçu/aperçu-du-projet_1.png)
 ![Image de l'aperçu du jeu - numéro 2](aperçu/aperçu-du-projet_2.png)
 ![Image de l'aperçu du jeu - numéro 3](aperçu/aperçu-du-projet_3.png)
 
+Update du 22-12 : J'ai persévéré au delà de la semaine de cours et j'ai réussi à faire beaucoup de chose !
 
-Update du 22-12 : J'ai persévéré au delà de la semaine de cours et voilà ce que j'ai réussi à faire !
+### Rendu final :
+Fond du jeu :  
+![fond marsien](projets/MyBatteryIsLow/img/decors/fond_Gexp.png)
+
+Le joueur :  
+
+![rover](projets/MyBatteryIsLow/img/sprites/rover_pixelart.png)
+
+
+Les objets à explorer :  
+
+Épave du bouclier thermique, au sud d'Endurance (décembre 2004)  
+![epave du bouclier thermique - pixelart](projets/MyBatteryIsLow/img/objets/epave_Gexp.png)
+
+Météorite Heat Shield Rock (janvier 2005)  
+![meteorite heat shield rock - pixelart](projets/MyBatteryIsLow/img/objets/meteorite_Kexp_Gexp.png)
