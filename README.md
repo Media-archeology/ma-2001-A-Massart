@@ -50,7 +50,7 @@ Le joueur fait bouger le sprite du rover Opportunity sur des éléments interact
 ## Journal de bord
 ### Comment lancer le jeu
 (toutes les étapes ne sont pas à jour dans les dossiers)
-1. Télécharger le dossier MyBatteryIsLow_Game.
+1. Télécharger le dossier [MyBatteryIsLow_Game](projets/MyBatteryIsLow/SORTIE/MyBatteryIsLow_Game).
 2. Importer la banque [MyBatteryIsLow.Abk](projets/MyBatteryIsLow/img/MyBatteryIsLow.Abk) dans Amos Pro.
 3. Importer le script [MyBatteryIsLow.ASC](projets/MyBatteryIsLow/MyBatteryIsLow.ASC).
 4. Lancer le jeu.
@@ -60,9 +60,13 @@ Maquette de l'aperçu final :
 ![Image de l'aperçu du jeu - numéro 2](aperçu/aperçu-du-projet_2.png)
 ![Image de l'aperçu du jeu - numéro 3](aperçu/aperçu-du-projet_3.png)
 
-Update du 22-12 : J'ai persévéré au delà de la semaine de cours et j'ai réussi à faire beaucoup de chose !
+**Update du 22-12 :** J'ai persévéré au delà de la semaine de cours et j'ai réussi à faire beaucoup de chose !  
+**Update du 25-12 :** J'ai fini le jeu !!!!
 
 ### Rendu final :
+
+<video controls src="aperçu/jeu-fini.mp4" title="Vidéo de démonstration du jeu fini !"></video>
+
 Fond du jeu :  
 ![fond marsien](projets/MyBatteryIsLow/img/decors/fond_Gexp.png)
 
@@ -74,7 +78,21 @@ Le joueur :
 Les objets à explorer :  
 
 Épave du bouclier thermique, au sud d'Endurance (décembre 2004)  
-![epave du bouclier thermique - pixelart](projets/MyBatteryIsLow/img/objets/epave_Gexp.png)
+![epave du bouclier thermique - pixelart](projets/MyBatteryIsLow/img/objets/epave_Gexp.png)  
+![image popup de l'épave](projets/MyBatteryIsLow/SORTIE/MyBatteryIsLow_Game/visuels/objets/popup/epave/epave.png)
 
 Météorite Heat Shield Rock (janvier 2005)  
-![meteorite heat shield rock - pixelart](projets/MyBatteryIsLow/img/objets/meteorite_Kexp_Gexp.png)
+![meteorite heat shield rock - pixelart](projets/MyBatteryIsLow/img/objets/meteorite_Gexp.png)  
+![Image popup de la météorite](projets/MyBatteryIsLow/SORTIE/MyBatteryIsLow_Game/visuels/objets/popup/meteorite/meteorite_Kexp_Gexp.png)
+
+Dunes :  
+![dunes - pixelart](projets/MyBatteryIsLow/img/decors/dunes.png)  
+![Image popup des dunes](projets/MyBatteryIsLow/img/objets-popup/dunes_Kexp_Gexp.png)
+
+La falaise Burns, à l'intérieur du cratère Endurance (décembre 2004) :  
+![falaise Burns - pixelart](projets/MyBatteryIsLow/img/decors/roche.png)  
+![Image popup des dunes](projets/MyBatteryIsLow/img/objets-popup/falaise_Kexp_Gexp.png)
+
+Le cratère Victoria (septembre 2006) :  
+![cratère Victoria - pixelart](projets/MyBatteryIsLow/img/decors/cratere.png)  
+![Image popup du cratère Victoria](projets/MyBatteryIsLow/img/objets-popup/victoria_Kexp_Gexp.png)
